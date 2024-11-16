@@ -1,6 +1,6 @@
 # Get Fit and Fine
 Get fit and Fine is workout help webapplication, which helps youin selecting workout exercises based on your muscle preference and goals.
-Just select your muscle target, your program and goals, an viaola!!! You have your personalised workout planner.
+Just select your muscle target, your program and goals, an viola!!! You have your personalised workout planner.
 
 [Demo](https://getfitandfine.netlify.app)
 
